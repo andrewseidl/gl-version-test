@@ -1,0 +1,3 @@
+Simple test to output `GL_VERSION` after EGL context creation.
+
+Bundled EGL and KHR headers are directly from Khronos.
